@@ -1,0 +1,35 @@
+.kitchen {
+  background-color: lightyellow;
+  padding: 10px;
+}
+
+/* se le aplica color al <p> vaso <color verde) y se le agrega un bold  */
+.house__kitchen__vaso--new {
+  color: green;
+  font-weight: bold;
+}
+
+.bedroom {
+  background-color: lavender;
+  padding: 10px;
+}
+
+/* SE aumenta el tamaño del <p> Cama */
+.bedroom__cama--big {
+  font-size: 20px;
+}
+
+/* se le cambia el background del <p> cama */
+.livingroom__mesa--new {
+  background-color: lightblue;
+  height: 18.4px;
+}
+
+.livingroom {
+  background-color: rgba(128, 128, 226, 0.719);
+  padding-bottom: 3px;
+}
+
+.livingroom p {
+  padding: 10px; 
+}
